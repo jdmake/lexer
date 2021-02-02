@@ -3,6 +3,8 @@
     "description": "this is lexer doc",
     "type": "library",
     "license": "MIT",
+    "minimum-stability": "stable",
+    "version": "1.0.0",
     "authors": [
         {
             "name": "jdmake",

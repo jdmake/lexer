@@ -1,5 +1,5 @@
 {
-    "name": "andy/lexer",
+    "name": "andyphp/lexer",
     "description": "this is lexer doc",
     "type": "library",
     "license": "MIT",

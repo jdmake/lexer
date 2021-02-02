@@ -1,0 +1,19 @@
+{
+    "name": "andy/lexer",
+    "description": "this is lexer doc",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "jdmake",
+            "email": "jdmake@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=5.3.2"
+    },
+    "autoload": {
+        "psr-0": { "Andy\\Common\\Lexer\\": "lib/" }
+    }
+}
